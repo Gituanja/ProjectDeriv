@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+p {
+  font-size: 18px;
+}
+
+p.error {
+  color: red;
+  font-weight: bold;
+}
